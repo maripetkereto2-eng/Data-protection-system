@@ -1,3 +1,10 @@
+/*
+NAME: MARIPET KERETO
+REG: CT101/G/26655/25
+DATA PROTECTION SYSTEM
+
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
